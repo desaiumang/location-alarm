@@ -3,7 +3,15 @@ This project was first copied from CodingWithMitch and reused to complete my sem
 
 <p>Here are some screenshots of my work.</p>
 <img src="https://github.com/desaiumang/location-alarm/blob/master/screenshots/1.png" width="208">
-
+<img src="https://github.com/desaiumang/location-alarm/blob/master/screenshots/3.png" width="208">
+<img src="https://github.com/desaiumang/location-alarm/blob/master/screenshots/4.png" width="208">
+<img src="https://github.com/desaiumang/location-alarm/blob/master/screenshots/5_1.png" width="208">
+<img src="https://github.com/desaiumang/location-alarm/blob/master/screenshots/5_2.png" width="208">
+<img src="https://github.com/desaiumang/location-alarm/blob/master/screenshots/5_3.png" width="208">
+<img src="https://github.com/desaiumang/location-alarm/blob/master/screenshots/6.png" width="208">
+<img src="https://github.com/desaiumang/location-alarm/blob/master/screenshots/7.png" width="208">
+<img src="https://github.com/desaiumang/location-alarm/blob/master/screenshots/8.png" width="208">
+<img src="https://github.com/desaiumang/location-alarm/blob/master/screenshots/9.png" width="208">
 
 
 
