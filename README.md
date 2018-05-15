@@ -2,7 +2,7 @@ This project was first copied from CodingWithMitch and reused to complete my sem
 <p>This android app can be used by frequent travelers who wish to get notified when they are at a certain distance from their destination.</p>
 
 <p>Here are some screenshots of my work.</p>
-<img src="https://github.com/desaiumang/location-alarm/blob/master/screenshots/1.png">
+<img src="https://github.com/desaiumang/location-alarm/blob/master/screenshots/1.png" width="208">
 
 
 
