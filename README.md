@@ -1,4 +1,10 @@
 This project was first copied from CodingWithMitch and reused to complete my semester project requirements.
+<p>This android app can be used by frequent travelers who wish to get notified when they are at a certain distance from their destination.</p>
+
+<p>Here are some screenshots of my work.</p>
+<img src="">
+
+
 
 
 
