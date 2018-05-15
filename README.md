@@ -2,7 +2,7 @@ This project was first copied from CodingWithMitch and reused to complete my sem
 
 
 
-<p>You can find the original read me file as follows.</p>
+<p>The original read me file contents are as follows.</p>
 <h1>Google Maps & Google Places Course</h1>
 <h4>A step-by-step guide to build your own Instagram Clone</h4>
 <h4>Watch it here: <a href='https://codingwithmitch.com/courses/google-maps-google-places/' target='_blank'>Google Maps & Google Places Course</a></h4>
